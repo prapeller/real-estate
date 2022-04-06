@@ -1,3 +1,8 @@
+.idea
+.vscode
+.coverage*
+staticfiles
+mediafiles
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,7 +107,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+real_estate/settings/.env
 .venv
 env/
 venv/
